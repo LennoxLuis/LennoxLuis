@@ -2,9 +2,9 @@
   </p>
 <h1> Hi everyone👋</h1>
 <h4>ABOUT ME:</h4>
-<p><h5>You can call me Lennox</h5>&#128540</p>
-<p>My name is Lennox Luis, I am a 3rd year BSIT college student studying in West Visayas State University. I am currently 20 years old.<br>
-just a simple man with big dreams.</p>
+<p><h5>You can call me Lennox :grin:</h5></p>
+<p>My name is Lennox Luis :smile:, I am a 3rd year BSIT college student studying in West Visayas State University :school:. I am currently 20 years old.<br>
+just a simple man with big dreams :fireworks:.</p>
 <hr>
 <h3> HOBBIES:</h3>
 <p>* watching Documentaries<br>
